@@ -19,7 +19,7 @@ After this you also have to add the following line into your `build.gradle`(This
 allprojects {
   repositories {
     ...
-    maven {url 'https://jipack.io'}
+    maven {url 'https://jitpack.io'}
   }
 }
 ```
