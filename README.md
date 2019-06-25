@@ -1,4 +1,7 @@
 # MinimalGraph
+With MinimalGraph you can create a Graph in less than a minute.
+
+**Important:** This API only creates a **very minimalist graph** and nothing you wan't to do science-work with at all. Even the X and Y-Axis (or as they are called in this API: Borders) **haven't got any values** on them so this really just **shows the relationship between values**.
 
 ## Implementation
 Before you can use this API, we have to implement it of course. For this you should open the `build.gradle`-File under your `app`-Folder inside your project and add the following line:
